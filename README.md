@@ -4,31 +4,31 @@ Trailhead exams for the Prepare for the Salesforce JavaScript Developer 1 Creden
 ## Task - Certification Resources
 
 ### Link
-JavaScript Developer I Certification Overview
+JavaScript Developer I Certification Overview - Completed 8/21/24
 
  
 ## Task - JavaScript Developer I Multiple Choice Exam
 
 ### Module 
-JavaScript Skills for Salesforce Developers
+JavaScript Skills for Salesforce Developers - Completed 8/24/20
 
 ### Module
-Get Started with Modern JavaScript Development
+Get Started with Modern JavaScript Development - Completed 9/14/20
 
 ### Link 
-Debugging in Chrome
+Debugging in Chrome - Completed 9/19/24
 
 ### Module
-Command-Line Interface
+Command-Line Interface - Completed 8/1/21
 
 
 ## Task - Lightning Web Components Specialist Superbadge
 
 ### Project
-Quick Start: Salesforce DX
+Quick Start: Salesforce DX - Completed 8/2/21
 
 ### Module
-Coding for Web Accessibility
+Coding for Web Accessibility - Completed 3/10/21
 
 ### Project
 Quick Start: Lightning Web Components
